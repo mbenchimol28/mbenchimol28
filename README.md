@@ -6,10 +6,13 @@ Antes disso passei quase 7 anos em vendas B2B e atendimento ao cliente (Frubana,
 
 **O que uso:** Python (Pandas, NumPy, Plotly, Dash) · SQL · Power BI · Excel · n8n
 
-**Projeto em destaque**
+**Projetos em destaque**
 
-- [audio-transcriber-public](https://github.com/mbenchimol28/audio-transcriber-public): app para Windows que transcreve áudio e vídeo com Whisper, identifica quem está falando e exporta TXT e SRT.
+| Projeto | O que é |
+|---|---|
+| [dashboard-financeiro-powerbi](https://github.com/mbenchimol28/dashboard-financeiro-powerbi) | Painel de finanças pessoais em Power BI (5 páginas, mais de 30 medidas DAX) com gerador de dados fictícios em Python e relatório com planejamento financeiro |
+| [audio-transcriber-public](https://github.com/mbenchimol28/audio-transcriber-public) | App para Windows que transcreve áudio e vídeo com Whisper, identifica quem está falando e exporta TXT e SRT |
 
-Estou organizando outros projetos de dados e automação para publicar aqui.
+Estou montando outros projetos de dados (SQL, Python e Power BI com dados públicos) para publicar aqui.
 
 📫 [LinkedIn](https://www.linkedin.com/in/michel-benchimol/)
